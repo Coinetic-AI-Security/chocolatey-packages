@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>coinetic</id>
+    <version>1.0.9806.28879</version>
+    <packageSourceUrl>https://github.com/Coinetic-AI-Security/chocolatey-packages/tree/main/coinetic</packageSourceUrl>
+    <owners>Salus Alpha Group AG</owners>
+    <title>Coinetic AI Security</title>
+    <authors>Salus Alpha Group AG</authors>
+    <projectUrl>https://coinetic.io</projectUrl>
+    <iconUrl>https://coinetic.io/logo-192.png</iconUrl>
+    <copyright>(c) Salus Alpha Group AG</copyright>
+    <licenseUrl>https://coinetic.io/eula</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <docsUrl>https://coinetic.io/guides</docsUrl>
+    <tags>firewall security intrusion-prevention brute-force rdp windows-server port-scan network-security ips admin trial</tags>
+    <summary>Firewall and intrusion protection for Windows Servers and PCs - bans password guessers and port scanners automatically.</summary>
+    <description><![CDATA[Coinetic AI Security manages the built-in Windows Firewall on Windows Servers and PCs.
+
+- Bans password guessers (Remote Desktop, Windows logons, VPN, SQL Server and more) and port scanners automatically with a firewall rule
+- Keeps Remote Desktop closed until you unlock it from your phone
+- Shows which programs go online and lets you allow or block them
+- A security check with plain explanations and fixes you can undo
+- Pro + AI adds an AI security analyst
+
+Installed through Chocolatey it starts the **free 30-day trial** with all features - no payment details needed.
+
+By installing you accept the licence agreement: https://coinetic.io/eula
+]]></description>
+    <releaseNotes>https://coinetic.io/trust</releaseNotes>
+  </metadata>
+</package>
